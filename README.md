@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hi, I'm Aya Al Sabri! 👋
 
-<!--
-**AyaAls777/AyaAls777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer and Autonomous Systems Engineering student at the University of Wollongong in Dubai, currently exploring the frontiers of AI, robotics, and autonomous technologies.
+I enjoy building AI-driven projects at the intersection of robotics, computer vision, and intelligent systems, connecting the digital and physical worlds in practical ways.
 
-Here are some ideas to get you started:
+I'm driven by a passion to create technology that's smart, purposeful, and real and I'm excited to keep learning, building, and collaborating on innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills and Technologies
+
+- **Programming Languages:** JavaScript, Java, MATLAB, Python 🐍
+- **Machine Learning & AI:** CLIP Models, OpenAI API Integration, Computer Vision (OpenCV)
+- **Robotics:** ROS2, LiDAR Mapping, Motion Planning (MoveIt2)
+- **Web Development:** Streamlit, HTML, CSS, API Integration
+- **Data Analysis & Visualization:** MATLAB, Automation Studio, Multisim, AutoCAD
+- **Tools:** GitHub, VS Code, Jupyter Notebooks, PLC Programming
+
+---
+
+## 📂 Featured Project
+
+- [VisionSort](https://github.com/AyaAls777/visionSort-AIChallenge) — AI-powered visual search tool using CLIP models and natural language prompts. Built for the FutureTech AI Challenge 2025.
+
+---
+
+## 🧠 Relevant Experience
+
+- **Ranked Top 4 among over 300 participants at the FutureTech AI Challenge 2025 (Decoding Data Science)** — Built and presented *VisionSort*, a semantic AI visual search tool
+
+- **AI Workshop Series (UOWD Tech Club)** — Brief exposure to deep learning models, Retrieval-Augmented Generation (RAG) concepts, and chatbot development. Built structured conversational AI chatbots using VS Code and explored key foundational concepts in AI. (Feb 2025)
+
+- **ROS2 Winter Camp (Dubai Future Foundation)** — Developed autonomous robotics solutions using LiDAR-based mapping, localization, and obstacle avoidance with ROS2 and MoveIt2. (Dec 2024)
+
+- **Process Design and Simulation (Monash Malaysia)** — Designed and implemented a custom processor using Verilog HDL, tested on FPGA hardware.
+
+- **Data Analysis (Monash Malaysia)** — Analyzed Human-Powered Vehicle performance data using MATLAB for energy optimization.
+
+---
+
+## 📬 Contact
+
+- [LinkedIn: Aya Al Sabri](https://www.linkedin.com/in/aya-al-sabri-b24149201/)
+- GitHub: AyaAls777
