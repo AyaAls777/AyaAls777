@@ -41,4 +41,4 @@ I'm driven by a passion to create technology that's smart, purposeful, and real 
 ## 📬 Contact
 
 - [LinkedIn: Aya Al Sabri](https://www.linkedin.com/in/aya-al-sabri-b24149201/)
-- GitHub: AyaAls777
+- ayaalsabri@gmail.com
