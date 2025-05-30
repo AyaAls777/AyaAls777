@@ -1,9 +1,11 @@
 ## Hi, I'm Aya Al Sabri! 👋
 
-Computer & Autonomous Systems Engineering student at the University of Wollongong in Dubai.  
+Computer & Autonomous Systems Engineering student at the University of Wollongong in Dubai.
 Focused on building AI-powered systems in computer vision, automation, and intelligent applications.
 
-Currently part of an AI residency program exploring real-world LLM and agent-based systems.  
+- Currently part of an AI residency program exploring real-world LLM and agent-based systems.
+- AI Team member at the UOWD Tech Club — planning and running hands-on workshops and initiatives that promote practical AI engagement across the university.
+
 Excited to keep learning, building, and sharing what I create.
 
 ---
