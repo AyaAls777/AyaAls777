@@ -18,6 +18,7 @@ Excited to keep learning, building, and sharing what I create.
 - **Web Development:** Streamlit, HTML, CSS, API Integration
 - **Data Analysis & Visualization:** MATLAB, Automation Studio, Multisim, AutoCAD
 - **Tools:** GitHub, VS Code, Jupyter Notebooks, PLC Programming
+- Fluent in English and Arabic
 
 ---
 
