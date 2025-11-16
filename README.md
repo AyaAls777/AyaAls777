@@ -10,15 +10,31 @@ Excited to keep learning, building, and sharing what I create.
 
 ---
 
-## 🔧 Skills and Technologies
+  ## 🛠️ Skills and Technologies
 
-- **Programming Languages:** JavaScript, Java, MATLAB, Python 🐍
-- **Machine Learning & AI:** CLIP Models, OpenAI API Integration, Computer Vision (OpenCV)
-- **Robotics:** ROS2, LiDAR Mapping, Motion Planning (MoveIt2)
-- **Web Development:** Streamlit, HTML, CSS, API Integration
-- **Data Analysis & Visualization:** MATLAB, Automation Studio, Multisim, AutoCAD
-- **Tools:** GitHub, VS Code, Jupyter Notebooks, PLC Programming
-- Fluent in English and Arabic
+- **Programming Languages:** JavaScript, Java, MATLAB, Python 🐍, C/C++
+  
+- **Machine Learning & AI:**  
+  CLIP Models, OpenAI API Integration, Computer Vision (OpenCV),  
+  *K-Means Clustering, PCA Visualization, Embedding Models (MiniLM, BGE, MPNet),  
+  MuQ Audio Embeddings, Cosine Similarity, Feature Scaling & Preprocessing*
+  
+- **Robotics:**  
+  ROS2, LiDAR Mapping, Motion Planning (MoveIt2),  
+  *Webots Robot Simulation (C Programming)*
+
+- **Web Development:**  
+  Streamlit, HTML, CSS, API Integration, *Gradio App Deployment*
+  
+- **Data Analysis & Visualization:**  
+  MATLAB, Automation Studio, Multisim, AutoCAD,  
+  *Pandas, NumPy, t-SNE 3D Visualization*
+  
+- **Tools:**  
+  GitHub, VS Code, Jupyter Notebooks, PLC Programming, *Google Colab, Kaggle*
+  
+- **Languages:**  
+  Fluent in English and Arabic
 
 ---
 
@@ -30,9 +46,21 @@ Excited to keep learning, building, and sharing what I create.
 
 ## 🧠 Relevant Experience
 
-- **Ranked Top 4 among over 300 participants at the FutureTech AI Challenge 2025 (Decoding Data Science)** — Built and presented *VisionSort*, a semantic AI visual search tool
+### ⭐ As AI Team Leader (UOWD Tech Club — Autumn 2025)
+- **Bi-Weekly AI Workshop Series** — Led the AI Team and oversaw the creation of two full workshops:  
+  **ML Foundations in Action** (Week 3) and  
+  **Build Your First AI App with Deep Learning** (Week 7).  
+  Directed the code development, mentored team members, and delivered hands-on sessions covering embeddings, LLM integration, multimodal AI, and Gradio app deployment.
 
-- **AI Workshop Series (UOWD Tech Club)** — Brief exposure to deep learning models, Retrieval-Augmented Generation (RAG) concepts, and chatbot development. Built structured conversational AI chatbots using VS Code and explored key foundational concepts in AI. (Feb 2025)
+### ⭐ As AI Team Member (UOWD Tech Club)
+- **Prompt Engineering Challenge** — Helped organize and run a university-wide prompt engineering competition for students, focusing on creativity, structured prompting, and applied LLM skills.
+
+- **OpenCV Workshop** — Co-organized and supported the delivery of an introductory computer vision workshop, teaching students basic image operations and face detection using OpenCV.
+
+### ⭐ Other Experiences
+- **Ranked Top 4 among over 300 participants at the FutureTech AI Challenge 2025 (Decoding Data Science)** — Built and presented *VisionSort*, a semantic AI visual search tool.
+
+- **AI Workshop Series (Feb 2025)** — Explored deep learning models, RAG concepts, and chatbot development. Built structured conversational AI chatbots using VS Code and introduced key foundational AI concepts.
 
 - **ROS2 Winter Camp (Dubai Future Foundation)** — Developed autonomous robotics solutions using LiDAR-based mapping, localization, and obstacle avoidance with ROS2 and MoveIt2. (Dec 2024)
 
