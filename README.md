@@ -3,8 +3,8 @@
 Computer & Autonomous Systems Engineering student at the University of Wollongong in Dubai.
 Focused on building AI-powered systems in computer vision, automation, and intelligent applications.
 
-- Currently part of an AI residency program exploring real-world LLM and agent-based systems.
-- AI Team member at the UOWD Tech Club — planning and running hands-on workshops and initiatives that promote practical AI engagement across the university.
+- AI Team Leader at the UOWD Tech Club - leading the AI team, designing workshops, mentoring students, and driving hands-on initiatives that promote practical AI engagement across the university.
+- AI Residency Program participant - exploring real-world LLM and agent-based systems through project-based learning and experimentation.
 
 Excited to keep learning, building, and sharing what I create.
 
